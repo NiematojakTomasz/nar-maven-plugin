@@ -95,6 +95,10 @@
     </bannerLeft>
 
   <body>
+    <breadcrumbs>
+      <item name="NAR plugin" href="https://maven-nar.github.com/" />
+    </breadcrumbs>
+
     <links>
         <item name="NAR Plugin for Maven" href="http://maven-nar.github.io/nar-maven-plugin"/>
         <item name="Maven" href="http://maven.apache.org/"/>
